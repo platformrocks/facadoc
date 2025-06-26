@@ -56,6 +56,13 @@ Copie e cole no seu código:
 - Se alterar um código que tenha a FACA, faça por sua conta em risco.
 
 
+## 🏆 Veja um caso de uso 10 anos depois
+
+<div>
+<video controls src="https://github.com/user-attachments/assets/54e9323d-c1b2-45e1-a232-2e0e1f2420f4">
+</video>
+</div>
+
 
 ## 🎯 Objetivo
 
