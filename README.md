@@ -11,11 +11,11 @@ O FACADOC é uma prática visual forte e direta para evitar alterações acident
 
 Adicione o FACADOC no topo que:
 
-✅ São gerados por scripts, ferramentas ou pipelines automatizados.  
-✅ Não devem ser modificados manualmente, sob risco de corromper o sistema ou gerar inconsistências.  
-✅ Fazem parte de contratos, definições ou configurações críticas.  
-✅ São artefatos de build ou exportações automáticas.
-✅ Em código legado que ninguém sabe o que vai acontecer depois que for alterado.
+- ✅ São gerados por scripts, ferramentas ou pipelines automatizados.  
+- ✅ Não devem ser modificados manualmente, sob risco de corromper o sistema ou gerar inconsistências.  
+- ✅ Fazem parte de contratos, definições ou configurações críticas.  
+- ✅ São artefatos de build ou exportações automáticas.
+- ✅ Em código legado que ninguém sabe o que vai acontecer depois que for alterado.
 
 
 ## ✍️ FACADOC
