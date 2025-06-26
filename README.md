@@ -48,7 +48,7 @@ Adicione o FACADOC no topo de arquivos que:
 ## 🏆 Veja um caso de uso 10 anos depois
 
 <video width="500" controls>
-  <source src="cases/case-10-anos-depois.mp4" type="video/mp4">
+  <source src="/cases/case-10-anos-depois.mp4" type="video/mp4">
   Seu navegador não suporta o vídeo.
 </video>
 
