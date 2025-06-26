@@ -1,24 +1,20 @@
 
-# FACADOC - Documentação de Código Protegido
+# 🔪 FACADOC
+
+## 📃 Documentação de Código Protegido
 
 O padrão **FACADOC**, um cabeçalho visual em ASCII no formato de **faca**, para sinalizar arquivos que **não devem ser alterados manualmente**, pois são **gerados automaticamente** ou possuem regras de manutenção específicas.
 
 O FACADOC é uma prática visual forte e direta para evitar alterações acidentais em códigos críticos (e cagados) ou gerados por processos automáticos.
-
-
 
 ## 🔧 Quando Usar o FACADOC
 
 Adicione o FACADOC no topo que:
 
 ✅ São gerados por scripts, ferramentas ou pipelines automatizados.  
-
 ✅ Não devem ser modificados manualmente, sob risco de corromper o sistema ou gerar inconsistências.  
-
 ✅ Fazem parte de contratos, definições ou configurações críticas.  
-
 ✅ São artefatos de build ou exportações automáticas.
-
 ✅ Em código legado que ninguém sabe o que vai acontecer depois que for alterado.
 
 
