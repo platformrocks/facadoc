@@ -47,7 +47,7 @@ Adicione o FACADOC no topo de arquivos que:
 
 ## 🏆 Veja um caso de uso 10 anos depois
 
-/cases/case-10-anos-depois.mp4
+https://raw.githubusercontent.com/platformrocks/facadoc/refs/heads/main/cases/case-10-anos-depois.mp4
 
 
 
