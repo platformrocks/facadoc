@@ -18,7 +18,9 @@ Adicione o FACADOC no topo que:
 ✅ Em código legado que ninguém sabe o que vai acontecer depois que for alterado.
 
 
-## ✍️ Exemplo do FACADOC
+## ✍️ FACADOC
+
+Copie e cole no seu código:
 
 ```js
 /**
