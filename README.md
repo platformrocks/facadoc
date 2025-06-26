@@ -1,23 +1,21 @@
 
-# FACADOC - Documentação de Arquivos Protegidos
+# FACADOC - Documentação de Código Protegido
 
-## 📄 Descrição
+O padrão **FACADOC**, um cabeçalho visual em ASCII no formato de **faca**, para sinalizar arquivos que **não devem ser alterados manualmente**, pois são **gerados automaticamente** ou possuem regras de manutenção específicas.
 
-Este projeto utiliza o padrão **FACADOC**, um cabeçalho visual em ASCII no formato de **faca**, para sinalizar arquivos que **não devem ser alterados manualmente**, pois são **gerados automaticamente** ou possuem regras de manutenção específicas.
-
-O FACADOC é uma prática visual forte e direta para evitar alterações acidentais em arquivos críticos ou gerados por processos automáticos.
+O FACADOC é uma prática visual forte e direta para evitar alterações acidentais em códigos críticos (e cagados) ou gerados por processos automáticos.
 
 
 
 ## 🔧 Quando Usar o FACADOC
 
-Adicione o FACADOC no topo de arquivos que:
+Adicione o FACADOC no topo que:
 
 ✅ São gerados por scripts, ferramentas ou pipelines automatizados.  
 ✅ Não devem ser modificados manualmente, sob risco de corromper o sistema ou gerar inconsistências.  
 ✅ Fazem parte de contratos, definições ou configurações críticas.  
-✅ São artefatos de build ou exportações automáticas.  
-
+✅ São artefatos de build ou exportações automáticas.
+✅ Em código legado que ninguém sabe o que vai acontecer depois que for alterado.
 
 
 ## ✍️ Exemplo do FACADOC
@@ -56,7 +54,8 @@ https://raw.githubusercontent.com/platformrocks/facadoc/refs/heads/main/cases/ca
 - **Nunca** edite manualmente arquivos que possuem o FACADOC.  
 - Alterações devem ser feitas nos **scripts ou processos** que geram o arquivo.  
 - Qualquer alteração direta será sobrescrita ou pode comprometer o sistema.  
-- Se identificar um arquivo crítico sem FACADOC, avalie se ele deveria ter.  
+- Se identificar um arquivo crítico sem FACADOC, avalie se ele deveria ter.
+- Se alterar um código que tenha a FACA, faça por sua conta em risco.
 
 
 
@@ -65,7 +64,8 @@ https://raw.githubusercontent.com/platformrocks/facadoc/refs/heads/main/cases/ca
 - Reduzir o risco de erros humanos.  
 - Facilitar a identificação de arquivos protegidos.  
 - Manter a integridade de processos automatizados.  
-- Criar um padrão visual simples e efetivo em toda a base de código.  
+- Criar um padrão visual simples e efetivo em toda a base de código.
+- Avisar desenvolvedores no futuro que vai dar merda.
 
 
 
@@ -73,4 +73,3 @@ https://raw.githubusercontent.com/platformrocks/facadoc/refs/heads/main/cases/ca
 
 Para equipes que geram arquivos automaticamente (configs, manifests, builds, etc.), padronize o uso do **FACADOC**. É simples, visual e altamente eficiente.
 
----
