@@ -48,8 +48,8 @@ Copie e cole no seu código:
 
 ## 🏆 Veja um caso de uso 10 anos depois
 
-![case](https://github.com/user-attachments/assets/6c5349b7-8af2-4c5f-a7df-e64297bb8df5)
-https://raw.githubusercontent.com/platformrocks/facadoc/refs/heads/main/cases/case-10-anos-depois.mp4
+<video controls src="https://github.com/user-attachments/assets/6c5349b7-8af2-4c5f-a7df-e64297bb8df5" muted="false">
+
 
 
 ## ⚠️ Regras de Conduta
