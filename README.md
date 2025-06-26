@@ -7,7 +7,7 @@ Este projeto utiliza o padrão **FACADOC**, um cabeçalho visual em ASCII no for
 
 O FACADOC é uma prática visual forte e direta para evitar alterações acidentais em arquivos críticos ou gerados por processos automáticos.
 
----
+
 
 ## 🔧 Quando Usar o FACADOC
 
@@ -18,7 +18,7 @@ Adicione o FACADOC no topo de arquivos que:
 ✅ Fazem parte de contratos, definições ou configurações críticas.  
 ✅ São artefatos de build ou exportações automáticas.  
 
----
+
 
 ## ✍️ Exemplo do FACADOC
 
@@ -47,12 +47,10 @@ Adicione o FACADOC no topo de arquivos que:
 
 ## 🏆 Veja um caso de uso 10 anos depois
 
-<video width="500" controls>
-  <source src="/cases/case-10-anos-depois.mp4" type="video/mp4">
-  Seu navegador não suporta o vídeo.
-</video>
+[Assista o vídeo](/cases/case-10-anos-depois.mp4)
 
----
+
+
 
 ## ⚠️ Regras de Conduta
 
@@ -61,7 +59,7 @@ Adicione o FACADOC no topo de arquivos que:
 - Qualquer alteração direta será sobrescrita ou pode comprometer o sistema.  
 - Se identificar um arquivo crítico sem FACADOC, avalie se ele deveria ter.  
 
----
+
 
 ## 🎯 Objetivo
 
@@ -70,7 +68,7 @@ Adicione o FACADOC no topo de arquivos que:
 - Manter a integridade de processos automatizados.  
 - Criar um padrão visual simples e efetivo em toda a base de código.  
 
----
+
 
 ## 🛡️ Recomendação
 
