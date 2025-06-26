@@ -41,6 +41,7 @@ Copie e cole no seu código:
  * ╔══════════════════════════════════════════════════════╗
  * ║  NÃO MEXER!!!                                        ║
  * ║  NÃO ALTERE ESSE ARQUIVO, POIS ELE É GERADO          ║
+ * ║  SAIBA MAIS SOBRE O FACADOC: https://git.new/facadoc ║
  * ╚══════════════════════════════════════════════════════╝
  */
 ```
